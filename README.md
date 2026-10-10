@@ -180,3 +180,8 @@ Dark Matter 是 Vault 7 Projects 列表中最早发布的一组项目资料，�
 - 完整性：所有清单条目均存在，SHA-256 复核无不匹配。
 - 下载脚本：[download-vault7.ps1](./download-vault7.ps1)。
 - 原始来源：[WikiLeaks Vault 7: Projects](https://wikileaks.org/vault7/)。
+
+## 扩展资料索引
+
+- [Vault 7 主档案：Year Zero 中文说明](./Related/Vault7-Year-Zero/README.md)：介绍 Year Zero 的范围、资料类型、代码公开边界和安全阅读建议。
+- [WikiLeaks 十周年资料包中文说明](./Related/WikiLeaks-10years/README.md)：十周年发布会资料、历史时间线和代表性发布项目。
